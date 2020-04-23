@@ -11,11 +11,11 @@ def assembled_aoh
   # Array. Ruby constants are denoted by ALL_CAPS
   
   workers = [
-    {DON_G,
+    DON_,
     JOELLE_VD,
     PAT_M,
     KATE_G,
-    BRUCE_G}]
+    BRUCE_G]
     
 
 end
