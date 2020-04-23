@@ -17,13 +17,14 @@ def assembled_aoh
     KATE_G,
     BRUCE_G]
     
-  return workers
+
 end
 
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   
+  w
   
   
 end
