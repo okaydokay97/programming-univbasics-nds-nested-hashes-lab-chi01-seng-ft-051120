@@ -17,7 +17,7 @@ def assembled_aoh
     KATE_G,
     BRUCE_G]
     
-
+workers
 end
 
 def literal_aoh
